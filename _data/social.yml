@@ -3,9 +3,9 @@
 
 
 social:
-  - {icon: 'github', type: "brand", link: 'https://www.github.com/pandasekh'}
-  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/PandaSekh'}
-  - {icon: 'linkedin', type: "brand", link: 'https://www.linkedin.com/in/alessio-franceschi/'}
+  - {icon: 'github', type: "brand", link: 'https://www.github.com/genesith'}
+  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/eugeneonnlp'}
+  - {icon: 'linkedin', type: "brand", link: 'https://www.linkedin.com/in/eugene-jang-35a59a216/'}
   
-  - {icon: 'envelope', type: "solid", link: 'mailto:alessiofranceschi2@gmail.com'}
+  - {icon: 'envelope', type: "solid", link: 'mailto:volcanstudioplusv@gmail.com'}
   - {icon: 'rss', type: "solid", link: "/feed.xml"}
