@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi. My name is Eugene and I work at S2W Inc., where I am a senior researcher in the AI Team. Prior to this, I recieved my Bachelor's and Master's degrees at KAIST.
+Hi, my name is Eugene. Right now I work at S2W Inc., where I am a senior researcher in the AI Team. I work on applying NLP methods to detect and interpret various forms of cybercrime. I am also working on automatic processing of cyber threat intelligence (CTI) information.
 
-(The site is currently a work in progress, thanks for checking by!)
+I am most interested in how to make models adapt to new or changing information. Currently, I work with retrieval as a way of augmenting nonparametric knowledge. In the long term, I believe interpreting parameterized knowledge will lead to more sophisticated methods of augmentation.
+
+Prior to all of this, I received my Bachelor's and Master's degrees at KAIST. During this time I engaged with a number of topics including media bias (Master's), computer vision (Bachelor's), and physics (minor).
+
 
 <!-- 
 
