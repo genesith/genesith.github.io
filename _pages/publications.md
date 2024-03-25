@@ -5,50 +5,42 @@ permalink: /publications/
 author_profile: true
 ---
 
-- __Eugene Jang__, Jian Cui, Dayeon Yim, Youngjin Jin, Jin-Woo Chung, Seungwon Shin, Yongjae Lee
-
+- __Eugene Jang__, Jian Cui, Dayeon Yim, Youngjin Jin, Jin-Woo Chung, Seungwon Shin, Yongjae Lee.          
 **Ignore Me But Don't Replace Me: Utilizing Non-Linguistic Elements for Pretraining on the Cybersecurity Domain**
 NAACL Findings 2024.
 [\[Paper\]](https://arxiv.org/abs/2403.10576)
 
-- Hanna Kim, Jian Cui, __Eugene Jang__, Chanhee Lee, Yongjae Lee, Jin-Woo Chung, Seungwon Shin
-
+- Hanna Kim, Jian Cui, __Eugene Jang__, Chanhee Lee, Yongjae Lee, Jin-Woo Chung, Seungwon Shin.          
 **DRAINCLoG: Detecting Rogue Accounts with Illegally-obtained NFTs using Classifiers Learned on Graphs**
 NDSS 2024.
 [\[Paper\]](https://arxiv.org/abs/2301.13577)
 
-- Youngjin Jin, __Eugene Jang__, Jian Cui, Jin-Woo Chung, Yongjae Lee, Seungwon Shin
-
+- Youngjin Jin, __Eugene Jang__, Jian Cui, Jin-Woo Chung, Yongjae Lee, Seungwon Shin.          
 **DarkBERT: A Language Model for the Dark Side of the Internet**
 ACL 2023.
 [\[Paper\]](https://aclanthology.org/2023.acl-long.415)
 
-- Youngjin Jin, __Eugene Jang__, Yongjae Lee, Seungwon Shin, Jin-Woo Chung
-
+- Youngjin Jin, __Eugene Jang__, Yongjae Lee, Seungwon Shin, Jin-Woo Chung.          
 **Shedding new light on the language of the dark web**
 NAACL 2022.
 [\[Paper\]](https://aclanthology.org/2022.naacl-main.412/)
 
-- ChaeHun Park, __Eugene Jang__, Wonsuk Yang, Jong C Park
-
+- ChaeHun Park, __Eugene Jang__, Wonsuk Yang, Jong C Park.          
 **Generating negative samples by manipulating golden responses for unsupervised learning of a response evaluation model**
 NAACL 2021.
 [\[Paper\]](https://aclanthology.org/2021.naacl-main.120/)
 
-- Huije Lee, Wonsuk Yang, Chaehun Park, Hoyun Song, __Eugene Jang__, Jong C Park
-
+- Huije Lee, Wonsuk Yang, Chaehun Park, Hoyun Song, __Eugene Jang__, Jong C Park.          
 **Optimizing Domain Specificity of Transformer-based Language Models for Extractive Summarization of Financial News Articles in Korean**
 PACLIC 2021.
 [\[Paper\]](https://aclanthology.org/2021.naacl-main.120/)
    
 
 ## Domestic (Korean) Publications
-- Dayeon Yim, __Eugene Jang__, Jin-Woo Chung          
-
+- Dayeon Yim, __Eugene Jang__, Jin-Woo Chung.          
 **Topic classification for cybercrime-related telegram messages using BERT**
 KSC 2023.
 
-- __Eugene Jang__, Wonsuk Yang, Jong C Park
-
+- __Eugene Jang__, Wonsuk Yang, Jong C Park.          
 **Target-Agnostic Detection of Stances Toward Entities in News Articles**
 HCIK 2021.
