@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+- __Eugene Jang__, Jian Cui, Dayeon Yim, Youngjin Jin, Jin-Woo Chung, Seungwon Shin, Yongjae Lee
+**Ignore Me But Don't Replace Me: Utilizing Non-Linguistic Elements for Pretraining on the Cybersecurity Domain**
+NAACL Findings 2024.
+[\[Paper\]](https://arxiv.org/abs/2403.10576)
+
 - Hanna Kim, Jian Cui, __Eugene Jang__, Chanhee Lee, Yongjae Lee, Jin-Woo Chung, Seungwon Shin
 **DRAINCLoG: Detecting Rogue Accounts with Illegally-obtained NFTs using Classifiers Learned on Graphs**
 NDSS 2024.
