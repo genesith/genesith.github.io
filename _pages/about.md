@@ -21,9 +21,11 @@ You can find my CV [here](/files/CV_EugeneJang_Sep_2025.pdf).
 
 Recent News
 ------
+**2025 Nov** - Had an absolute blast at [EMNLP 2025](https://2025.emnlp.org). Very happy that many people found [our work](https://aclanthology.org/2025.emnlp-main.919/) interesting.
+
 **2025 Sep** - I am now in Boston, starting my Ph.D. at Northeastern!
 
-**2025 Aug** - Our paper on Byte-level BPE tokenizer vulnerabilities has been accepted to EMNLP 2025!
+**2025 Aug** - Our [paper on Byte-level BPE tokenizer vulnerabilities](https://aclanthology.org/2025.emnlp-main.919/) has been accepted to EMNLP 2025!
 
 **2024 Nov** - Our [paper on drug jargon detection](https://dl.acm.org/doi/10.1145/3690624.3709183) was accepted to KDD 2025!
 
