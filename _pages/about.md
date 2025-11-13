@@ -21,7 +21,7 @@ You can find my CV [here](/files/CV_EugeneJang_Sep_2025.pdf).
 
 Recent News
 ------
-**2025 Nov** - Had an absolute blast at [EMNLP 2025](https://2025.emnlp.org). Very happy that many people found [our work](https://aclanthology.org/2025.emnlp-main.919/) interesting [Github](https://github.com/genesith/ImprobableBigrams).
+**2025 Nov** - Had an absolute blast at [EMNLP 2025](https://2025.emnlp.org). Very happy that many people found [our work](https://aclanthology.org/2025.emnlp-main.919/) interesting ([Github](https://github.com/genesith/ImprobableBigrams)).
 
 **2025 Sep** - I am now in Boston, starting my Ph.D. at Northeastern!
 
