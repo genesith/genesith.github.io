@@ -12,11 +12,11 @@ Hi, my name is Eugene. I am a Ph.D. student at Northeastern University, advised 
 
 
 Right now I'm especially looking at:
-  * [Tokenization](/posts/2024/TokenizationMatters): Many model issues can be traced to the tokenizer, a product of many design choices that impact the model in subtle ways. Can we creative both better tokenizers and model-tokenizer interactions?
+  * [Tokenization](/posts/2024/TokenizationMatters): Many model issues can be traced to the tokenizer, a product of many design choices that impact the model in subtle ways. Can we create both better tokenizers and model-tokenizer interactions?
 
 Pre-Ph.D., I worked on AI for security as a research scientist at S2W Inc.
 I received my Bachelor's and Master's degrees at KAIST.
-You can find my CV [here](/files/CV_EugeneJang_Sep_2025.pdf).
+You can find my CV [here](/files/CV_EugeneJang_Jan_2026.pdf).
 
 
 Recent News
@@ -40,7 +40,7 @@ Trivia
 ------
 1. My cat's name is Squash. He has a stepbrother, [Pumpkin](/assets/img/thebois.jpg).
 2. I used to write [articles](https://herald.kaist.ac.kr/news/articleView.html?idxno=1821) for the school's English newspaper, usually complaining about something in the Society section.
-3. I enjoy playing electric guitar, but like music that's too technical for my own good. I eagerly await for an AI system that can transcribe very fast solos from songs.
+3. I enjoy playing electric guitar, but like music that's too technical for my own good. I eagerly await an AI system that can transcribe very fast solos from songs.
 
 <!-- 
 
