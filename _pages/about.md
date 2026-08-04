@@ -16,11 +16,15 @@ Right now I'm especially looking at:
 
 Pre-Ph.D., I worked on AI for security as a research scientist at S2W Inc.
 I received my Bachelor's and Master's degrees at KAIST.
-You can find my CV [here](/files/CV_EugeneJang_Jan_2026.pdf).
+You can find my CV [here](/files/CV_EugeneJang_Jul_2026.pdf).
 
 
 Recent News
 ------
+**2026 Jul** - Our paper on text encodings was accepted to [TokShop @ COLM](https://tokenization-workshop.github.io/)!
+
+**2026 May** - [Universal NER V2](https://lrec.elra.info/lrec2026-main-525) is accepted to LREC 2026. Happy to have been part of extending the dataset's coverage to Korean!
+
 **2025 Nov** - Had an absolute blast at [EMNLP 2025](https://2025.emnlp.org). Very happy that many people found [our work](https://aclanthology.org/2025.emnlp-main.919/) interesting ([Github](https://github.com/genesith/ImprobableBigrams)).
 
 **2025 Sep** - I am now in Boston, starting my Ph.D. at Northeastern!
