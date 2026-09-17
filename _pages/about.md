@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Eugene. I am a Ph.D. student at Northeastern University, advised by [Terra Blevins](https://blvns.github.io/). I'm interested in the many challenges involved with Multilingual NLP.
+Hi, my name is Eugene. I am a 2nd year Ph.D. student at Northeastern University, advised by [Terra Blevins](https://blvns.github.io/). I'm interested in the many challenges involved with Multilingual NLP.
 
 
 Right now I'm especially looking at:
@@ -17,6 +17,8 @@ Right now I'm especially looking at:
 Pre-Ph.D., I worked on AI for security as a research scientist at S2W Inc.
 I received my Bachelor's and Master's degrees at KAIST.
 You can find my CV [here](/files/CV_EugeneJang_Jul_2026.pdf).
+
+You can contact me at (lastname).eu@northeastern.edu. I'm very happy to chat about my work. If you are a junior researcher with questions about research or PhD-ing, feel free to reach out! However, note that LLM-generated emails may not get a reply.
 
 
 Recent News
